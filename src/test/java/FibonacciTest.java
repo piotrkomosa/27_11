@@ -1,10 +1,9 @@
-
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class FibonacciTest {
 
-    private Fibonacci fibonacci = new Fibonacci();
+    private Fibonacci fibonacci = new Fibonacci();//
 
 
     @Test
